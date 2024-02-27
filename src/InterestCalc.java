@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 public class InterestCalc {
     public static void main(String[] args) {
         System.out.println("Welche Laufzeit: ");
